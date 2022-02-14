@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "資料下載器", "資料下載器\資料下載器.csproj", "{FA4D0232-E537-421B-A16F-B3A57D9AE7F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "背景下載nba資料", "背景下載nba資料\背景下載nba資料.csproj", "{0012619B-85A5-4147-B356-E17F132AB1FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendMessage", "資料下載器\SendMessage\SendMessage.csproj", "{C06BB065-59C6-47FD-BCDC-57C5681C8FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4D0232-E537-421B-A16F-B3A57D9AE7F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4D0232-E537-421B-A16F-B3A57D9AE7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4D0232-E537-421B-A16F-B3A57D9AE7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4D0232-E537-421B-A16F-B3A57D9AE7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0012619B-85A5-4147-B356-E17F132AB1FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0012619B-85A5-4147-B356-E17F132AB1FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0012619B-85A5-4147-B356-E17F132AB1FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0012619B-85A5-4147-B356-E17F132AB1FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C06BB065-59C6-47FD-BCDC-57C5681C8FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C06BB065-59C6-47FD-BCDC-57C5681C8FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C06BB065-59C6-47FD-BCDC-57C5681C8FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C06BB065-59C6-47FD-BCDC-57C5681C8FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FE1D4D7-73E3-4EB3-89C8-A125C7567CC0}
+	EndGlobalSection
+EndGlobal
